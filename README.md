@@ -1,11 +1,15 @@
+<p align="center">
+  <img src=".git" alt="Demonstração do projeto" width="100%" />
+</p>
+
 ## Projeto
 
-Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo
+Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
 
 ## Tecnologias
 
-Esse projeto foi desenvolvido durante o nlw com as tecnologias:
+Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
 
 - HTML
 - CSS
-- Git e GitHub
+- Git e Github
